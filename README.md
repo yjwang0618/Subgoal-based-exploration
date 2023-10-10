@@ -1,4 +1,4 @@
-# Exploration via Sample-Efficient Subgoal Design
+# Dynamic Subgoal-based Exploration via Bayesian Optimization
 
 ## What do we have
 ### Requirements
@@ -11,6 +11,10 @@
   * HyperBand
   * QL and "Transfer" QL
   * Random
+
+## To Cite the Paper
+  * Wang, Yijia, Matthias Poloczek, and Daniel R. Jiang. "Dynamic Subgoal-based Exploration via Bayesian Optimization." Transactions on Machine Learning Research (2023).
+  * Link to the paper: [link](https://openreview.net/forum?id=ThJl4d5JRg)
 
 ## How to run the algorithms
 #### BESD [run_besd_REP.py](run_besd_REP.py)
